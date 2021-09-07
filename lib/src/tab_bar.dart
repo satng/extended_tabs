@@ -7,7 +7,7 @@ import 'package:flutter/widgets.dart';
 
 import 'tab_indicator.dart';
 
-const double _kTabHeight = 46.0;
+const double _kTabHeight = 30.0;
 const double _kTextAndIconTabHeight = 72.0;
 
 // This class, and TabBarScrollController, only exist to handle the case
